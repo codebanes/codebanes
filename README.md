@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm a Math Enthusiast! 👋
 
-<!--
-**codebanes/codebanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I love math—and π is just the beginning.
 
-Here are some ideas to get you started:
+The beauty of mathematics is everywhere: in patterns, puzzles, elegant proofs, and the way a simple idea can explain something surprisingly big.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few things I enjoy
+
+- 🔢 Exploring numbers and mathematical ideas
+- 🌀 Appreciating π: `3.141592653589793...`
+- 🧩 Solving puzzles and looking for patterns
+- 📚 Learning something new, one problem at a time
+
+> “Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.” — William Paul Thurston
+
+**Always curious. Always learning. ∞**
